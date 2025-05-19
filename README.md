@@ -1,0 +1,2 @@
+# Netflix_clone
+ A responsive Netflix homepage clone built with pure HTML and CSS only. Features include a clean navigation header, content grids with hover effects, CSS-only dropdown menus, responsive design for all devices, and static authentication UI pages. This project demonstrates advanced CSS techniques like Flexbox, Grid, transitions, and pseudo-classes to create a faithful recreation of Netflix's visual interface
